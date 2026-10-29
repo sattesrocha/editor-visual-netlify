@@ -2,9 +2,21 @@
 
 Edite o seu site hospedado no Netlify **como no WordPress**: clique nos textos para reescrever, clique nas imagens para trocar e aperte **Publicar**. Sem programar e sem instalar nada.
 
+### 👉 [Abrir o Editor Visual](https://sattesrocha.github.io/editor-visual-netlify/)
+
+## Instale como aplicativo
+
+O editor pode virar um app no seu computador ou celular, com ícone próprio e janela sem barra de endereço:
+
+- **Chrome ou Edge (computador):** abra o editor e clique em **⬇ Instalar app**, no topo da página. Também dá pelo ícone de instalar na barra de endereço.
+- **Android:** no Chrome, menu **⋮ → Instalar app** (ou "Adicionar à tela inicial").
+- **iPhone:** no Safari, **Compartilhar → Adicionar à Tela de Início**.
+
+Depois de instalado, o editor abre pelo ícone e se atualiza sozinho.
+
 ## Como usar
 
-1. Baixe o arquivo [`index.html`](index.html) e abra no navegador (Chrome, Edge ou Firefox).
+1. Abra o [editor](https://sattesrocha.github.io/editor-visual-netlify/) (ou baixe o arquivo [`index.html`](index.html) e abra no navegador).
 2. No Netlify, gere um **token de acesso pessoal** em *User settings → Applications → Personal access tokens*.
 3. Cole o token no editor e clique em **Conectar**.
 4. Escolha o site e a página, edite e clique em **Publicar**.
