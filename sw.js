@@ -1,6 +1,6 @@
 // Service worker do Editor Visual: faz o app abrir rápido e funcionar com internet instável.
 // Só guarda os arquivos do próprio editor. Nada da API do Netlify nem dos sites dos clientes é guardado.
-const CACHE = 'editor-visual-v3';
+const CACHE = 'editor-visual-v4';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   './icon-maskable-512.png', './apple-touch-icon.png', './favicon.png'];
 
