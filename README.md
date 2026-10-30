@@ -6,10 +6,7 @@ Edite o seu site hospedado no Netlify **como no WordPress**: clique nos textos p
 
 ## 🎬 Veja como funciona (50 s)
 
-<video width="100%" controls preload="metadata" poster="docs/video-capa.jpg">
-  <source src="docs/demo.mp4" type="video/mp4">
-  Seu navegador não suporta a reprodução de vídeos.
-</video>
+[![Vídeo de demonstração do Editor Visual: clique para assistir](docs/video-capa.jpg)](https://sattesrocha.github.io/editor-visual-netlify/docs/demo.mp4)
 
 Clique na imagem para assistir: no computador e no celular, do jeito que o dono do site usa no dia a dia.
 
