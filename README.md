@@ -4,6 +4,12 @@ Edite o seu site hospedado no Netlify **como no WordPress**: clique nos textos p
 
 ### 👉 [Abrir o Editor Visual](https://sattesrocha.github.io/editor-visual-netlify/)
 
+## 🎬 Veja como funciona (50 s)
+
+[![Vídeo de demonstração do Editor Visual: clique para assistir](docs/video-capa.jpg)](https://sattesrocha.github.io/editor-visual-netlify/docs/demo.mp4)
+
+Clique na imagem para assistir: no computador e no celular, do jeito que o dono do site usa no dia a dia.
+
 ![Editor Visual editando um site de exemplo: painel de edição à esquerda e o site à direita](docs/editor.png)
 
 ## Como usar
